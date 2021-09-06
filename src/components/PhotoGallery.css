@@ -1,0 +1,50 @@
+.parent {
+  max-width: 100%;
+ padding-top:30px;
+  margin: auto;
+  font-family: "Didact Gothic", sans-serif;
+  height:auto;
+}
+
+.textarea {
+  text-align: justify;
+  text-align-last: center;
+  margin: auto;
+}
+.textarea p {
+  margin: auto;
+  font-size: 15px;
+}
+.gallery-title h1 {
+  font-size: 40px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: black;
+  font-weight: 900;
+  padding: 0;
+}
+.parent .read-more {
+  background-color: #3e3a39;
+  border-color: #41464b;
+  border-radius: 0%;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  cursor: pointer;
+  height: 50px;
+  font-size: 20px;
+}
+.parent .icons {
+  background-color: #574f4c;
+  color: var(--black);
+}
+
+.photo-1 {
+  object-fit: contain;
+  background: url("../images/gallery1.jpg");
+  
+}
+.photo-2 {
+  margin-left: 10px;
+  background: url("../images/gallery2.jpg");
+}

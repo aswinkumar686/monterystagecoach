@@ -1,0 +1,43 @@
+.location-container {
+  padding: 20px;
+  margin: auto;
+}
+
+.Location {
+  max-width: 100%;
+  color: white;
+  display: flex;
+}
+.Location h1 {
+  color: black;
+}
+.description {
+  max-width: 70%;
+  background-color: #302923;
+  position: relative;
+  padding: 20px;
+}
+
+.map-image {
+  position: relative;
+  z-index: 9;
+  max-width: 100%;
+  height: 100%;
+}
+.map-image map {
+  float: right;
+}
+.location-container .read-more {
+    background-color: white;
+    border-color: #41464b;
+    border-radius: 0%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+    height: 50px;
+    font-size: 15px;
+    color:black;
+  }
+  .location-container .icons{
+      background-color:#302923;
+  }

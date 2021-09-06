@@ -1,0 +1,144 @@
+.parentattract {
+  text-align: center;
+  font-family: "Didact Gothic";
+  max-width: 100%;
+}
+.parentattract h1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 35px;
+  margin-top: 10px;
+  letter-spacing: 12px;
+  letter-spacing: 15px;
+}
+.parentattract .t1 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 12px;
+  line-height: 1.2;
+}
+.parentattract .t2 {
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+.parentattract .disc1,.parentattract .disc2 {
+  text-align: justify;
+  text-align-last: center;
+}
+
+.attraction-images {
+  overflow: hidden;
+  max-width: 100%;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  padding-left: 0%;
+  padding-right: 0%;
+  display:block;
+}
+
+
+.container-image{
+  margin:auto;
+ 
+  
+}
+
+
+.container1 .title {
+  color: #1a1a1a;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.content {
+  position: relative;
+overflow: hidden;
+}
+
+.content-overlay {
+  background: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  height: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.content:hover .content-overlay {
+  opacity: 1;
+}
+
+.content img {
+  max-width: 100%;
+  
+}
+
+.content-details {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  top: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.content:hover .content-details {
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+}
+
+.content-details h3 {
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.content-details p {
+  color: #fff;
+  font-size: 1em;
+}
+
+.fadeIn-right {
+  left: 80%;
+}
+.parentattract .read-more {
+  background-color: #3e3a39;
+  border-color: #41464b;
+  border-radius: 0%;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  cursor: pointer;
+  height: 50px;
+  font-size: 20px;
+  
+}
+.button{
+
+  margin-top:30px;
+
+}
+.parentattract .icons {
+    
+  background-color: #574f4c;
+  color: var(--black);
+  
+ }

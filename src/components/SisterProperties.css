@@ -1,0 +1,178 @@
+.parentsister {
+  text-align: center;
+  font-family: "Didact Gothic", sans-serif;
+  max-width: 100%;
+  margin-top: 50px;
+}
+.title1 h1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 35px;
+  letter-spacing: 12px;
+}
+.desc h4 {
+  font-size: 18px;
+}
+.desc {
+  width: 70%;
+  margin: auto;
+}
+.title2 h4 {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 22px;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+.sisterprop-list {
+  max-width: 80%;
+  margin: auto;
+}
+.sisterprop {
+  width: 100%;
+  border: none;
+}
+.sisterprop h3 {
+  font-size: 16px;
+  color: #787878;
+  margin-top: 30px;
+  font-weight: 900;
+}
+a:link {
+  text-decoration: none;
+}
+.session {
+  display: flex;
+  margin: auto;
+  max-width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.subscribe-session,
+.contact-session {
+  border: 1px solid #cdcdcd;
+}
+.subscribe-title {
+  display: flex;
+  margin-left: 10px;
+}
+.contact-session {
+  margin-left: 10px;
+
+  border: 1px solid #cdcdcd;
+}
+.subscribe {
+  margin-bottom: 20px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.sub-title {
+  display: block;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  text-align: justify;
+  margin-left: 20px;
+}
+.sub-title label {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: -10px;
+}
+.sub-title h3 {
+  font-size: 18px;
+}
+.subscribe-input {
+  margin-left: 10px;
+  width: 100%;
+  text-align: justify;
+}
+.subscribe-input input {
+  width: 100%;
+  background-color: transparent;
+  border-style: hidden;
+  margin-top: 17px;
+}
+
+.envelop {
+  width: 60px;
+  height: 60px;
+}
+.subscribe-form {
+  border-radius: 50px;
+  border-color: #358a00;
+  background-color: #c9c9c9;
+  display: flex;
+  justify-content: space-between;
+}
+input:focus {
+  outline: none;
+}
+.input-mail {
+  border-color: #358a00;
+  border-width: 10px;
+}
+.input-mail :focus {
+  border-color: #358a00;
+  border-width: 10px;
+}
+.buttons input {
+  background-color: white;
+  border-radius: 50px;
+  width: 115px;
+  float: right;
+  padding: 14px;
+  margin-right: 1.5px;
+  margin-top: 1.5px;
+  margin-bottom: 1px;
+  color: #358a00;
+  font-size: 17px;
+  letter-spacing: 0.8px;
+  font-weight: 900;
+  text-align: center;
+}
+.buttons:hover {
+  color: black;
+}
+.contact-title-div {
+  text-align: -webkit-center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.contact-title {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  margin-left: 20px;
+}
+.contact-title label {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: -10px;
+}
+.contact-title h3 {
+  font-size: 18px;
+  margin: 0px;
+}
+.logos {
+  max-width: 100%;
+  text-align:center;
+  justify-content: center;
+  
+}
+.social-media {
+  list-style: none;
+  text-align: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.logo{
+  height:30px;
+  width:30px;
+  margin:15px;
+  
+}
+

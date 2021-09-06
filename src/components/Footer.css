@@ -1,0 +1,97 @@
+.footer{
+    text-align:center;
+    margin-top:  20px;
+    background-color: #1f0c00;
+    padding-top: 20px;
+}
+.footer-container{
+    font-family: "Didact Gothic", sans-serif;
+    max-width: 100%;
+   
+    text-align: center;
+    
+}
+.logo1{
+    text-align:center;
+}
+@media (max-width:992px){
+    .logo1{
+        display:none;
+    }  
+}
+img{
+    max-width: 80%;
+}
+.logo1 h4{
+    margin: 10px;
+    font-size: 16px;
+    color:white;
+
+}
+
+
+
+.footer-buttons{
+    justify-content: center;
+}
+.buttons-div{
+    justify-content: center;
+    text-align:center;
+    width: 100%;
+}
+.buttons-div .read-more{
+    background-color:white;
+    border-color: #41464b;
+    font-weight: 700;
+    cursor: pointer;
+    width:150px;
+    height: 40px;
+    font-size: 14px;
+    margin:10px;
+    color:black;
+}
+.read-more .access{
+    background-color: #0563ae;
+}
+.info{
+    color:white;
+    margin:20px;
+    justify-content: space-around;
+    max-width: 80%; 
+}
+.info li{
+    list-style-type: none;
+}
+.about{
+    text-align:start;
+}
+.career{
+    text-align:center;
+}
+.sitemap{
+    text-align:right;
+}
+.end{
+    width: 100%;
+    justify-content:space-between;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 700;
+}
+.break-line{
+    text-align:center;
+}
+.line{
+    background-color:rgb(255, 255, 255);
+  
+    height: 1px;
+    
+}
+.company-description{
+    width: 100%;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 700;
+    color:white;
+    margin-top:20px;
+}
