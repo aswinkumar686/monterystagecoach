@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/monterystagecoach/static/css/main.b21ff08e.chunk.css",
+    "main.js": "/monterystagecoach/static/js/main.023360b1.chunk.js",
+    "main.js.map": "/monterystagecoach/static/js/main.023360b1.chunk.js.map",
+    "runtime-main.js": "/monterystagecoach/static/js/runtime-main.5230abae.js",
+    "runtime-main.js.map": "/monterystagecoach/static/js/runtime-main.5230abae.js.map",
+    "static/css/2.818011ed.chunk.css": "/monterystagecoach/static/css/2.818011ed.chunk.css",
+    "static/js/2.b0302980.chunk.js": "/monterystagecoach/static/js/2.b0302980.chunk.js",
+    "static/js/2.b0302980.chunk.js.map": "/monterystagecoach/static/js/2.b0302980.chunk.js.map",
+    "static/js/3.1b9fdea7.chunk.js": "/monterystagecoach/static/js/3.1b9fdea7.chunk.js",
+    "static/js/3.1b9fdea7.chunk.js.map": "/monterystagecoach/static/js/3.1b9fdea7.chunk.js.map",
+    "index.html": "/monterystagecoach/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/monterystagecoach/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.b21ff08e.chunk.css.map": "/monterystagecoach/static/css/main.b21ff08e.chunk.css.map",
+    "static/js/2.b0302980.chunk.js.LICENSE.txt": "/monterystagecoach/static/js/2.b0302980.chunk.js.LICENSE.txt",
+    "static/media/Guest.css": "/monterystagecoach/static/media/SCL.9e978ce0.jpg",
+    "static/media/attract1.61eeda70.jpg": "/monterystagecoach/static/media/attract1.61eeda70.jpg",
+    "static/media/attract2.866ecfbb.jpg": "/monterystagecoach/static/media/attract2.866ecfbb.jpg",
+    "static/media/attract3.f530afbb.jpg": "/monterystagecoach/static/media/attract3.f530afbb.jpg",
+    "static/media/bml.5e73850b.png": "/monterystagecoach/static/media/bml.5e73850b.png",
+    "static/media/PhotoGallery.css": "/monterystagecoach/static/media/gallery2.4aa8d185.jpg",
+    "static/media/logo-new.087e5659.png": "/monterystagecoach/static/media/logo-new.087e5659.png",
+    "static/media/map.9c434964.jpeg": "/monterystagecoach/static/media/map.9c434964.jpeg",
+    "static/media/video-1.59e75226.mp4": "/monterystagecoach/static/media/video-1.59e75226.mp4",
+    "static/media/ysh.6fd43597.png": "/monterystagecoach/static/media/ysh.6fd43597.png",
+    "static/media/ywl.1f77ec66.png": "/monterystagecoach/static/media/ywl.1f77ec66.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5230abae.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.b0302980.chunk.js",
+    "static/css/main.b21ff08e.chunk.css",
+    "static/js/main.023360b1.chunk.js"
+  ]
+}
